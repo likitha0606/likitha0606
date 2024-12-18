@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @likitha (Myportfolio - https://likitha0606.github.io/Myportfolio/)
+- 👋 Hi, I’m @likitha (Myportfolio - [https://likitha0606.github.io/Myportfolio/](https://likitha0606.github.io/Likithas-Portfolio/))
 - 👀 I’m interested in **Data Analysis, Machine Learning, NLP, and AI-driven solutions**.
 - 🌱 I’m currently learning **Advanced Data Visualization, Power BI, and Deep Learning for Computer Vision**.
 - 💞️ I’m looking to collaborate on **projects related to data analysis, machine learning, and AI-driven applications**.
